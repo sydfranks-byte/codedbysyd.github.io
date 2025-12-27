@@ -12,7 +12,21 @@ _____
 
 PSEUDO++ is a project management app for new developers
 
-Description: A project planning and organization tool designed to help developers build apps from scratch with clarity and structure. PSEUDO++ lets you plan features, write pseudocode, create flowcharts, design methods and classes, and track progress through a visual dashboard. Each feature can be broken down into pseudocode, functions, and implementation steps, making the transition from idea to code seamless. Perfect for students, learners, and anyone who needs help staying organized while building software.
+Description:
+A project planning and organization tool designed to help developers build apps from scratch with clarity and structure. PSEUDO++ lets you plan features, write pseudocode, create flowcharts, design methods and classes, and track progress through a visual dashboard. Each feature can be broken down into pseudocode, functions, and implementation steps, making the transition from idea to code seamless. Perfect for students, learners, and anyone who needs help staying organized while building software.
 Technologies: Python, React
 Status: In Development
 Link: [Coming soon]
+
+_____
+
+10,000-Hour Study Tracker
+
+Description:
+A minimalist time-tracking application inspired by the 10,000-hour mastery concept. This tool focuses on one core function: tracking minutes spent practicing or studying a skill over time. Users log sessions, see cumulative progress, and build awareness around consistency rather than short-term productivity.
+
+This project highlights my ability to intentionally scope software, focus on a single core metric, and implement clean, reliable logic without unnecessary complexity. By narrowing the feature set to time accumulation and progress tracking, I emphasized clarity, accuracy, and maintainable code. The tracker demonstrates disciplined problem definition, data handling, and incremental development, reinforcing a strong foundation in building software that does exactly what it claims to do.
+
+Technologies: Java
+Status: Basic Backend Complete | UI in progress
+Link: [GitHub Repo]
