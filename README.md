@@ -29,4 +29,4 @@ This project highlights my ability to intentionally scope software, focus on a s
 
 Technologies: Java
 Status: Basic Backend Complete | UI in progress
-Link: [GitHub Repo]
+Link: https://github.com/codedbysyd/studytracker
